@@ -2,7 +2,7 @@
 
 ## What is This Project About?
 
-This is a landing page for a non-existent/sample company. I made this when I was first learning Bootstrap. 
+This is a landing page for a non-existent/sample company. I made this when I was first learning Bootstrap to design more mobile-friendly responsive websites,
 
 ## Languages/Technologies are Used
 
